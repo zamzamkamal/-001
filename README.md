@@ -1,2 +1,2 @@
 # -001
-kelinci percobaan
+kelinci percobaan dan berbagai coba coba 
